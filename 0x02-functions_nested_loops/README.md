@@ -26,7 +26,7 @@ All of the following files are programs written in C:
 		
 | -------- | ----------- |
 		
-| `0-putchar.c` | Prints `Putchar` |
+| '0-putchar.c' | Prints 'Putchar' |
 		
 | `1-alphabet.c` | Prints the alphabet in lowercase |
 		
