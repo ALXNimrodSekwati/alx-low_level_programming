@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - encode into 1337speak
+ * * Return: 0
+ */
+
 int main(void)
 {
 int n;
